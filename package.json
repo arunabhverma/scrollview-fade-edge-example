@@ -1,5 +1,5 @@
 {
-  "name": "expo-android-scroll-edge",
+  "name": "scrollview-fade-edge-example",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
